@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415461680381",
+    "project_id": "lion-proj",
+    "storage_bucket": "lion-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415461680381:android:98c5f0f8f5614dceba4a94",
+        "android_client_info": {
+          "package_name": "com.prod.lionsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415461680381-0jr55258e0r7j0s95ccblu29074ifj0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAjqlfpt4IVUK8IbiojkfKi0XC5rViG_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415461680381-0jr55258e0r7j0s95ccblu29074ifj0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
